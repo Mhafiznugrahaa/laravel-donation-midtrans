@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter-thin {
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+}
+
+.inter-extra-light {
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
+}
+
+.inter-light {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+}
+
+.inter-regular {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+.inter-medium {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+
+.inter-semi-bold {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+.inter-bold {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+.inter-extra-bold {
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+}
+
+.inter-black {
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+body, p, div, span, a, li, ul, ol, table, th, td, input, button, textarea {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+/* Custom Bootstrap Overrides */
+.bg-primary {
+    background-color: #226A5F !important;
+}
+
+.bg-secondary {
+    background-color: #83B014 !important;
+}
+
+.bg-warning {
+    background-color: #FFA600 !important;
+}
+
+.border-primary {
+    border-color: #226A5F !important;
+}
+
+.border-secondary {
+    border-color: #83B014 !important;
+}
+
+.border-warning {
+    border-color: #FFA600 !important;
+}
+
+.btn-primary {
+    background-color: #226A5F !important;
+    border-color: #226A5F !important;
+}
+
+.btn-primary:hover {
+    background-color: darken(#226A5F, 10%) !important;
+    border-color: darken(#226A5F, 10%) !important;
+}
+
+.btn-outline-primary {
+    color: #226A5F !important;
+    border-color: #226A5F !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: #226A5F !important;
+    color: #fff !important;
+}
+
+.btn-secondary {
+    background-color: #83B014 !important;
+    border-color: #83B014 !important;
+}
+
+.btn-secondary:hover {
+    background-color: darken(#83B014, 10%) !important;
+    border-color: darken(#83B014, 10%) !important;
+}
+
+.btn-outline-secondary {
+    color: #83B014 !important;
+    border-color: #83B014 !important;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #83B014 !important;
+    color: #fff !important;
+}
+
+.btn-warning {
+    background-color: #FFA600 !important;
+    border-color: #FFA600 !important;
+}
+
+.btn-warning:hover {
+    background-color: darken(#FFA600, 10%) !important;
+    border-color: darken(#FFA600, 10%) !important;
+}
+
+.btn-outline-warning {
+    color: #FFA600 !important;
+    border-color: #FFA600 !important;
+}
+
+.btn-outline-warning:hover {
+    background-color: #FFA600 !important;
+    color: #fff !important;
+}
+
+.text-primary {
+    color: #226A5F !important;
+}
+
+.text-secondary {
+    color: #83B014 !important;
+}
+
+.text-warning {
+    color: #FFA600 !important;
+}
+
+.navbar .nav-link.active {
+    color: #226A5F !important;
+    font-weight: 700;
+}
+
+
+
